@@ -8,5 +8,6 @@
   "dependencies": [],
   "codeowners": [
     "@mariusz.ostoja-swierczynski"
-  ]
+  ],
+  "iot_class": "cloud_polling"
 }
